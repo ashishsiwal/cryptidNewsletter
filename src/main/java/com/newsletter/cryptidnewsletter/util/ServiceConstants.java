@@ -1,4 +1,4 @@
-package util;
+package com.newsletter.cryptidnewsletter.util;
 
 public class ServiceConstants {
 

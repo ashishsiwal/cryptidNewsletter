@@ -20,7 +20,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 
-import static util.ServiceConstants.*;
+import static com.newsletter.cryptidnewsletter.util.ServiceConstants.*;
 
 @Service
 @Slf4j
